@@ -39,14 +39,14 @@ env.bak/
 venv.bak/
 
 # Data
-data/raw/*
-!data/raw/.gitkeep
-data/processed/*
-!data/processed/.gitkeep
+# data/raw/*
+# !data/raw/.gitkeep
+# data/processed/*
+# !data/processed/.gitkeep
 
 # Models
-models/*
-!models/.gitkeep
+# models/*
+# !models/.gitkeep
 
 # IDEs
 .vscode/
